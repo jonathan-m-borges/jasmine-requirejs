@@ -1,0 +1,19 @@
+{
+  "name": "app-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "jasmine-examples": "jasmine examples"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "jasmine": "^3.6.3",
+    "jasmine-reporters": "^2.3.2",
+    "requirejs": "^2.3.6"
+  }
+}
